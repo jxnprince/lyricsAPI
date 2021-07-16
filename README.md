@@ -6,9 +6,9 @@
 
 •Clone this repo with `git clone https://github.com/jxnprince/lyricsAPI.git`
 
-•Be sure your current working directory is the root directory of this repo and run `touch .env`
+•Create your VENV
 
-•Copy the supplied Environment Variables from the email sent you by Jackson Prince and paste them into your newly created .env module & be sure to save!
+•Create a `.env` file at the root level and copy the supplied Environment Variables from the email sent you by Jackson Prince and paste them into your newly created .env module & be sure to save!
 
 
 
