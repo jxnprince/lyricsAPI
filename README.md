@@ -10,7 +10,7 @@
 
 •Create a `.env` file at the root level and copy the supplied Environment Variables from the email sent you by Jackson Prince and paste them into your newly created .env module & be sure to save!
 
-• Install dependencies  `pip install spotipy lyricsgenius`
+• Install dependencies  `pip install spotipy lyricsgenius python-dotenv`
 
 •Open the Spotify desktop client and play a track of your choice
 
