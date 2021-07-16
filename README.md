@@ -8,7 +8,9 @@
 
 •Be sure your current working directory is the root directory of this repo and run `touch .env`
 
-•Copy the supplied Environment Variables from the email sent you by Jackson Prince and paste them into your newly craeted .env module & be sure to save!
+•Copy the supplied Environment Variables from the email sent you by Jackson Prince and paste them into your newly created .env module & be sure to save!
+
+
 
 •Open the Spotify desktop client and play a track of your choice
 
