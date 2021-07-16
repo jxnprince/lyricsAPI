@@ -8,8 +8,6 @@
 
 •Create your VENV `python3 -m venv << NAME OF VENEV >>`
 
-•Install dependencies `pip install spotipy lyricsgenius`
-
 •Create a `.env` file at the root level and copy the supplied Environment Variables from the email sent you by Jackson Prince and paste them into your newly created .env module & be sure to save!
 
 •Open the Spotify desktop client and play a track of your choice
