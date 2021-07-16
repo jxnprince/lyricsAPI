@@ -21,6 +21,8 @@
 
 •Your terminal should read `Enter the URL you were redirected to: `
 
-•Paste the previously copied Google URL.
+•Paste the previously copied Google URL into your terminal and submit.
+
+•You can now close the browser window.
 
 •If you do not have anything currently playing in Spotify you will get an error: `TypeError: 'NoneType' object is not subscriptable`. If you come across this error the process with automatically cancel.  Be sure to have a track playing before running the script.
