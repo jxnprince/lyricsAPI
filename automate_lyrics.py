@@ -40,7 +40,8 @@ spotifyOAuth = spotipy.SpotifyOAuth(client_id=os.environ.get('SPOTIPY_CLIENT_ID'
                                     redirect_uri=os.environ.get('SPOTIPY_REDIRECT_URI'),
                                     scope=scope)
 
-token = spotifyOAuth.get_access_token()
+# token = spotifyOAuth.get_access_token()
+token = spotifyOAuth.get_cached_token()
 # print(json.dumps(token, sort_keys=True, indent=4))
 
 spotifyObject = spotipy.Spotify(auth=token['access_token'])
